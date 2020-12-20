@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2EDE60E0258FF2D700E75963 /* ICMain.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ICMain.cpp; sourceTree = "<group>"; };
+		2EDE60E1258FF2D700E75963 /* ICMain.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ICMain.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2EDE60D8258FF15300E75963 = {
+			isa = PBXGroup;
+			children = (
+				2EDE60DF258FF2AB00E75963 /* src */,
+			);
+			sourceTree = "<group>";
+		};
+		2EDE60DF258FF2AB00E75963 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				2EDE60E0258FF2D700E75963 /* ICMain.cpp */,
+				2EDE60E1258FF2D700E75963 /* ICMain.hpp */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2EDE60D9258FF15300E75963 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+			};
+			buildConfigurationList = 2EDE60DC258FF15300E75963 /* Build configuration list for PBXProject "ImageConverter_X" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2EDE60D8258FF15300E75963;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2EDE60DD258FF15300E75963 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2EDE60DE258FF15300E75963 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2EDE60DC258FF15300E75963 /* Build configuration list for PBXProject "ImageConverter_X" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EDE60DD258FF15300E75963 /* Debug */,
+				2EDE60DE258FF15300E75963 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2EDE60D9258FF15300E75963 /* Project object */;
+}
